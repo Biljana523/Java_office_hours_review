@@ -7,6 +7,8 @@ public class Discord extends mobileApp{
 
     public void chat(String name){
         System.out.println("I am chatting with "+ name+ " on discord channel");
+        
+        //we made some changes 
 
     }
 
